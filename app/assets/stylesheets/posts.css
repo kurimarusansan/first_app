@@ -1,0 +1,20 @@
+.post{
+ border:1px solid red;
+ width: 40%;
+ margin: 30px 0 0 0;
+}
+
+.post-date{
+    color: gray;
+}
+
+.post-content{
+    font-size: 10px;
+    color: red;
+}
+
+.post-price{
+    font-size: 20px;
+    color: blue;
+    background-color: lightgray;
+}
